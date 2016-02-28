@@ -1,0 +1,39 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great-Volume-06-Little-Journeys-to-the-Homes-of-Eminent-Ar__6306
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bellini, Giovanni, -1516'
+- !lcsh 'Thorvaldsen, Bertel, 1770-1844'
+- !lcsh 'Cellini, Benvenuto, 1500-1571'
+- !lcsh 'Gainsborough, Thomas, 1727-1788'
+- !lcsh 'Whistler, James McNeill, 1834-1903'
+- !lcsh 'Velázquez, Diego, 1599-1660'
+- !lcsh 'Correggio, 1489?-1534'
+- !lcsh 'Corot, Jean-Baptiste-Camille, 1796-1875'
+- !lcsh 'Leonardo, da Vinci, 1452-1519'
+- !lcsh 'Botticelli, Sandro, 1444 or 5-1510'
+- !lcc 'N'
+- !lcsh 'Raphael, 1483-1520'
+tableOfContents: Raphael -- Leonardo -- Botticelli -- Thorwaldsen -- Gainsborough
+  -- Velasquez -- Corot -- Correggio -- Bellini -- Cellini -- Whistler.
+title: "Little Journeys to the Homes of the Great - Volume 06\r\nLittle Journeys to\
+  \ the Homes of Eminent Artists"
+url: http://www.gutenberg.org/ebooks/6306
